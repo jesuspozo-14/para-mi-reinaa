@@ -44,4 +44,12 @@ body{
     background:black;
     text-align:center;
 }
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2rem;
+    }
 
+    .contenedor {
+        padding: 15px;
+    }
+}
